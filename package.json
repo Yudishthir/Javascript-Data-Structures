@@ -1,0 +1,17 @@
+{
+  "name": "node-stack",
+  "version": "1.0.0",
+  "description": "Stack data structure in node",
+  "main": "index.js",
+  "scripts": {
+    "test": "nodemon index.js",
+    "start": "node index.js"
+  },
+  "keywords": [
+    "node",
+    "stack",
+    "data-structure"
+  ],
+  "author": "Yudishthir Lokhande",
+  "license": "ISC"
+}
